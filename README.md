@@ -3,14 +3,13 @@ This repository contains an Exploratory Data Analysis (EDA) project using the **
 
 A quick analysis shows that the dataset covers a time span from **2000 to 2015**. There are **22 columns** representing various indicators related to life expectancy, including **Country**, **Year**, **Status**, **Life expectancy**, **Adult Mortality**, **Infant deaths**, **Alcohol**, **Percentage expenditure**, **Hepatitis B**, **Measles**, **BMI**, **Under-five deaths**, **Polio**, **Total expenditure**, **Diphtheria**, **HIV/AIDS**, **GDP**, **Population**, **Thinness (1–19 years)**, **Thinness (5–9 years)**, **Income composition of resources**, and **Schooling**.
 
-The project involves examining the statistical summary of each column, identifying and properly handling missing values, and checking for and removing duplicate data entries. This analysis aims to understand key factors influencing life expectancy globally through structured data exploration.
-
 
 ## 📌 Goals
 - Examining the statistical summary of each column.
 - Identifying missing values and applying appropriate handling techniques.
 - Checking for duplicate data entries and removing them as needed.
 - Gaining insights into key factors influencing global life expectancy through structured data exploration.
+
 
 ## 🔧 Data Preprocessing Steps
 ### 1. Reading the Dataset
