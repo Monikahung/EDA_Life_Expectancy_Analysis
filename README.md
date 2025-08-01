@@ -43,6 +43,10 @@ Columns with a normal distribution were filled using the mean, while those with 
 ### 4. No Duplicate Records Found
 A check for duplicate rows revealed none in the dataset, so no further action was required regarding data duplication.
 
+
+## 🗂️ Document
+I also presented my project in the form of a PowerPoint to make it easier to understand. You can view it in the file titled [PPT DSF41DS MONIKA](https://github.com/Monikahung/EDA_Life_Expectancy_Analysis/blob/main/PPT%20DSF41DS%20MONIKA.pdf).
+
 ## 📬 Contact
 For suggestions, inquiries, or collaboration opportunities, feel free to contact me via [monikahung580@gmail.com](mailto:monikahung580@gmail.com) or connect with me on [linkedin.com/in/monikahung/](https://www.linkedin.com/in/monikahung).
 
